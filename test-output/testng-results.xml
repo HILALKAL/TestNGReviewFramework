@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9491" started-at="2019-06-10T20:46:04Z" finished-at="2019-06-10T20:46:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9491" started-at="2019-06-10T20:46:04Z" finished-at="2019-06-10T20:46:14Z">
+      <class name="com.WebOrder.Testcases.LoginTest">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.WebOrder.Testcases.LoginTest@8bd1b6a]" name="setUpDriver" is-config="true" duration-ms="8246" started-at="2019-06-10T20:46:04Z" finished-at="2019-06-10T20:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.WebOrder.Testcases.LoginTest@8bd1b6a]" name="testlogin" duration-ms="1142" started-at="2019-06-10T20:46:13Z" finished-at="2019-06-10T20:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WebOrder.Testcases.LoginTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="50" started-at="2019-06-10T20:46:14Z" finished-at="2019-06-10T20:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WebOrder.Testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
